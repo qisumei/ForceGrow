@@ -1,7 +1,7 @@
 name: ForceGrow
 main: com.electro2560.dev.forcegrow.ForceGrow
 version: 1.0.4
-api-version: 1.13
+api-version: 1.20
 author: ElectroBoy2560
 website: https://dev.electro2560.com/
 description: Force grow crops with bone meal!
